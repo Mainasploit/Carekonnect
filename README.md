@@ -26,10 +26,6 @@
 7. 🚀 [More](#more)
 
 
-<a href="https://youtu.be/lEflo_sc82g?feature=shared" target="_blank">
-  <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" />
-</a>
-
 ## 🤖 Introduction
 
 Care Konnect is a healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors. It features administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.
